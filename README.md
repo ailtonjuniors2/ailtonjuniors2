@@ -2,7 +2,7 @@
 Sou um estudante de Ciência da Computação sempre buscando aprender mais sobre tecnologia e programação. Estou começando minha jornada no mundo do desenvolvimento de software e atualmente estou focado em aprender Python. Neste repositório, você encontrará alguns dos meus projetos e exercícios que estou desenvolvendo ao longo do meu aprendizado.
 
 # 📚 Sobre Mim
-- 😊 Tenho 18 anos.
+- 😊 Tenho 19 anos.
 - 🎓 Estudante de Ciência da Computação.
 - 💻 Interessado em desenvolvimento de software, especialmente com Python.
 
@@ -11,6 +11,7 @@ Sou um estudante de Ciência da Computação sempre buscando aprender mais sobre
 - Conhecimento intermediário em UX/Ui
 - Conhecimento básico em Javascript e Bibliotecas como SweetAlert
 - Conhecimento básico em Python
+- Conhecimento básico em Java
 - Conhecimento básico em C
 - Conhecimento básico em GIT e Github
 
