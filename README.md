@@ -4,7 +4,7 @@ Sou um estudante de Ciência da Computação sempre buscando aprender mais sobre
 # 📚 Sobre Mim
 - 😊 Tenho 19 anos.
 - 🎓 Estudante de Ciência da Computação.
-- 💻 Interessado em desenvolvimento de software, especialmente com Python.
+- 💻 Interessado em desenvolvimento de software, especialmente com Java.
 
 # 👨‍💻 Ferramentas e Tecnologias.
 - Conhecimento intermediário em HTML e CSS e TailwindCSS
@@ -18,13 +18,13 @@ Sou um estudante de Ciência da Computação sempre buscando aprender mais sobre
 # 🖥 Aprendendo...
 - Linux
 - Banco de Dados
-- Aperfeiçoando Python e C.
+- Aperfeiçoando Python e Java.
 
 # 💥 Quer contribuir? 
 Se você tiver sugestões, melhorias ou quiser contribuir com qualquer um dos meus projetos, sinta-se à vontade para fazer um fork deste repositório e enviar um pull request. Toda ajuda é mais que bem-vinda!
 
 # 📩 Para me contatar
-- Email: ajunior220905@gmail.com
+- Email: ajuniors222@gmail.com
 - [Linkedin](https://www.linkedin.com/in/ailton-junior-python/)
 
 <!---
