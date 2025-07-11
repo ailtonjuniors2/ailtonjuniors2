@@ -1,5 +1,5 @@
 # 👋 Olá, meu nome é Ailton Junior, bem-vindo ao meu GitHub!
-Sou um estudante de Ciência da Computação sempre buscando aprender mais sobre tecnologia e programação. Estou começando minha jornada no mundo do desenvolvimento de software e atualmente estou focado em aprender Python. Neste repositório, você encontrará alguns dos meus projetos e exercícios que estou desenvolvendo ao longo do meu aprendizado.
+Sou um estudante de Ciência da Computação sempre buscando aprender mais sobre tecnologia e programação. Estou começando minha jornada no mundo do desenvolvimento de software e atualmente estou focado em aprender Java. Neste repositório, você encontrará alguns dos meus projetos e exercícios que estou desenvolvendo ao longo do meu aprendizado.
 
 # 📚 Sobre Mim
 - 😊 Tenho 19 anos.
