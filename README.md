@@ -12,7 +12,6 @@ Sou um estudante de Ciência da Computação sempre buscando aprender mais sobre
 - Conhecimento básico em Javascript e Bibliotecas como SweetAlert
 - Conhecimento básico em Python
 - Conhecimento básico em Java
-- Conhecimento básico em C
 - Conhecimento básico em GIT e Github
 
 # 🖥 Aprendendo...
