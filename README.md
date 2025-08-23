@@ -12,12 +12,13 @@ Sou um estudante de Ciência da Computação sempre buscando aprender mais sobre
 - Conhecimento básico em Javascript e Bibliotecas como SweetAlert
 - Conhecimento básico em Python
 - Conhecimento básico em Java
+- Conhecimento básico em Rust
 - Conhecimento básico em GIT e Github
 
 # 🖥 Aprendendo...
 - Linux
 - Banco de Dados
-- Aperfeiçoando Python e Java.
+- Aperfeiçoando Rust e Java.
 
 # 💥 Quer contribuir? 
 Se você tiver sugestões, melhorias ou quiser contribuir com qualquer um dos meus projetos, sinta-se à vontade para fazer um fork deste repositório e enviar um pull request. Toda ajuda é mais que bem-vinda!
