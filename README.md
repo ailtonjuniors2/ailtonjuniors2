@@ -2,7 +2,7 @@
 Sou um estudante de Ciência da Computação sempre buscando aprender mais sobre tecnologia e programação. Estou começando minha jornada no mundo do desenvolvimento de software e atualmente estou focado em aprender Java. Neste repositório, você encontrará alguns dos meus projetos e exercícios que estou desenvolvendo ao longo do meu aprendizado.
 
 # 📚 Sobre Mim
-- 😊 Tenho 19 anos.
+- 😊 Tenho 20 anos.
 - 🎓 Estudante de Ciência da Computação.
 - 💻 Interessado em desenvolvimento de software, especialmente com Java.
 
