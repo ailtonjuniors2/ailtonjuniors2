@@ -9,11 +9,11 @@ Sou um estudante de Ciência da Computação sempre buscando aprender mais sobre
 # 👨‍💻 Ferramentas e Tecnologias.
 - Conhecimento intermediário em HTML e CSS e TailwindCSS
 - Conhecimento intermediário em UX/Ui
+- Conhecimento intermediário em Java (SpringBoot)
+- Conhecimento Intermediário em GIT e Github
 - Conhecimento básico em Javascript e Bibliotecas como SweetAlert
 - Conhecimento básico em Python
-- Conhecimento básico em Java
 - Conhecimento básico em Rust
-- Conhecimento básico em GIT e Github
 
 # 🖥 Aprendendo...
 - Linux
@@ -25,7 +25,7 @@ Se você tiver sugestões, melhorias ou quiser contribuir com qualquer um dos me
 
 # 📩 Para me contatar
 - Email: ajuniors222@gmail.com
-- [Linkedin](https://www.linkedin.com/in/ailton-junior-python/)
+- [Linkedin](https://www.linkedin.com/in/ailton-junior-java/)
 
 <!---
 ailtonjuniors2/ailtonjuniors2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
